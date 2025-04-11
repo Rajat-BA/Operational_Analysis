@@ -17,11 +17,9 @@ The goal is to identify potential production process issues by analyzing custome
 - Jupyter Notebook
 - Excel
 
-## 📈 Status
-✅ Part 1 complete  
-🚧 Part 2 (Process Control using control charts) – Coming soon
+## 📜 Instructions to Run
 
-## 👤 Author
+1. Install dependencies:
+```bash
+pip install -r ../../requirements.txt
 
-Rajat Mohite. 
-Business Analytics
