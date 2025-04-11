@@ -1,0 +1,26 @@
+## 🔍 Key Findings – Part 1: Characteristics Definition
+
+During this stage of the project, we conducted sentiment analysis and applied Pareto principles to identify recurring issues reported by customers in their reviews of **Angel Hair Pasta**.
+
+### 🚨 Identified Problematic Characteristics
+
+- **😷 Smell**  
+  Customers frequently reported an unpleasant or chemical-like odor.
+  
+- **🧊 Texture**  
+  Described as mushy, slimy, or rubbery, indicating possible inconsistencies in the product’s firmness and structure.
+  
+- **👅 Taste**  
+  Often noted as bland or lacking in flavor, affecting overall satisfaction.
+
+---
+
+### 📩 Action Taken
+
+Based on these insights, a **formal data request** was submitted to the **Operations Manager**. The request outlined the need for specific production data related to:
+
+- Odor compound measurements
+- Texture testing (firmness/elasticity)
+- Ingredient ratios and sensory evaluations
+
+This data will support further investigation in **Part 2: Process Control & Results**, where control charts and statistical tools will be applied to determine if the production process is in control and capable of producing consistent quality.
