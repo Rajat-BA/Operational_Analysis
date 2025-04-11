@@ -9,7 +9,7 @@ The goal is to identify potential production process issues by analyzing custome
 - Identify 3 major product characteristics causing dissatisfaction
 - Prepare a formal report and request production data from the Operations Manager
 
-📂 [See Part 1 Folder](./part1_characteristics_definition)
+📂 https://github.com/Rajat-BA/operational-analytics-angel-hair-noodle/blob/main/product_reviews.xlsx
 
 ### ⚙️ Technologies Used
 - Python
@@ -17,6 +17,11 @@ The goal is to identify potential production process issues by analyzing custome
 - Jupyter Notebook
 - Excel
 
----
+## 📈 Status
+✅ Part 1 complete  
+🚧 Part 2 (Process Control using control charts) – Coming soon
 
-## 🔗 File Structure
+## 👤 Author
+
+Rajat Mohite. 
+Business Analytics
